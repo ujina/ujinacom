@@ -1,0 +1,7 @@
+{
+    "scripts": {
+      "dev": "vuepress dev blog",
+      "build": "vuepress build src --dest dist"
+    }
+  }
+  
