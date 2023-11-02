@@ -5,11 +5,11 @@ tagline:
 actionText: 詳しく読む →
 actionLink: /guide/
 features:
-- title: 栄養がいちばん大事
-  details: Feature 1 Description
-- title: 運動も大切
-  details: Feature 2 Description
-- title: 考え方で体力の浪費をしない
-  details: Feature 3 Description
+- title: 栄養で土台を建て直し
+  details: たんぱく質をしっかり
+- title: 運動で代謝をあげて
+  details: ミトコンドリア活性化
+- title: 認知による浪費を防ぐ
+  details: 人間だもの
 footer: Made by  with ❤️
 ---
