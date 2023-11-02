@@ -1,7 +1,12 @@
 const { description } = require('../../package')
 
 module.exports = {
-
+  locales: {
+    '/': {
+      lang: 'ja',
+    },  
+  },
+  
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
@@ -32,7 +37,7 @@ module.exports = {
     editLinks: false,
     docsDir: '',
     editLinkText: '',
-    lastUpdated: false,
+    lastUpdated: '最終更新日',
     nav: [
       {
         text: 'Guide',

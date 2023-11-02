@@ -5,11 +5,11 @@ tagline:
 actionText: 詳しく読む →
 actionLink: /guide/
 features:
-- title: Feature 1 Title
+- title: 栄養がいちばん大事
   details: Feature 1 Description
-- title: Feature 2 Title
+- title: 運動も大切
   details: Feature 2 Description
-- title: Feature 3 Title
+- title: 考え方で体力の浪費をしない
   details: Feature 3 Description
 footer: Made by  with ❤️
 ---
