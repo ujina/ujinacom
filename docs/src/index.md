@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: 
 tagline: 
 actionText: 詳しく読む →
 actionLink: /guide/
