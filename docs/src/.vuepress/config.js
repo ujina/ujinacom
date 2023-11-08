@@ -48,8 +48,8 @@ module.exports = {
         link: '/config/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'Blog',
+        link: '/blog/'
       }
     ],
     sidebar: {
@@ -63,6 +63,17 @@ module.exports = {
           ]
         }
       ],
+
+      '/blog/': [
+        {
+          title: 'Blog',
+          collapsable: false,
+          children: [
+            '',
+          ]
+        }
+      ],
+
     }
   },
 
